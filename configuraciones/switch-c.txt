@@ -1,0 +1,22 @@
+hostname SwitchC
+
+vlan 20
+ name RRHH
+
+vlan 30
+ name IT
+
+interface FastEthernet0/1
+ description PC RRHH C
+ switchport access vlan 20
+ switchport mode access
+
+interface FastEthernet0/2
+ description PC IT C
+ switchport access vlan 30
+ switchport mode access
+
+interface FastEthernet0/24
+ description TRUNK hacia Router C
+ switchport trunk encapsulation dot1q
+ switchport mode trunk

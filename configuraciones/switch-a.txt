@@ -1,0 +1,27 @@
+! ================================
+! Switch A - Cisco 2960
+! ================================
+
+hostname SwitchA
+
+vlan 10
+ name FINANZAS
+
+vlan 20
+ name RRHH
+
+interface FastEthernet0/1
+ description PC Finanzas A
+ switchport access vlan 10
+ switchport mode access
+
+interface FastEthernet0/2
+ description PC RRHH A
+ switchport access vlan 20
+ switchport mode access
+
+interface FastEthernet0/24
+ description TRUNK hacia Router A
+ switchport trunk encapsulation dot1q
+ switchport mode trunk
+
