@@ -1,0 +1,13 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Draw.io backups
+*.drawio.bak
+
+# LibreOffice cache
+.~lock.*
