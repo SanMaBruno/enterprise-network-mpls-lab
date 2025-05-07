@@ -65,4 +65,4 @@ Demostrar competencias avanzadas en diseño de redes empresariales, documentaci�
 
 🖼️ Imagen exportada para previsualización directa:
 
-![Topología de red](documentacion/topologia-red-empresarial-mpls.png)
+![Topología de red](documentacion/topologia-red-mpls.png)
