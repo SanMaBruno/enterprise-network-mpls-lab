@@ -45,7 +45,7 @@ enterprise-network-mpls-lab/
 
 ## 🎯 Objetivo del Proyecto
 
-Demostrar competencias avanzadas en diseño de redes empresariales, documentación estructurada y buenas prácticas de simulación técnica, orientadas a roles profesionales en telecomunicaciones, infraestructura TI y soporte técnico de nivel senior.
+Demostrar competencias avanzadas en diseño de redes empresariales, documentación estructurada y buenas prácticas de simulación técnica, orientadas a roles profesionales en telecomunicaciones, infraestructura TI y soporte técnico.
 
 ---
 ## 📸 Vista previa
