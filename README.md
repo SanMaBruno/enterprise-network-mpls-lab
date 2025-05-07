@@ -20,25 +20,14 @@ Este proyecto representa el diseño e implementación de una arquitectura de red
 
 ```
 enterprise-network-mpls-lab/
-├── red-mpls-empresarial.pkt # Archivo principal de simulación (Cisco Packet Tracer)
-├── README.md # Descripción general del proyecto
-├── .gitignore # Exclusión de archivos del control de versiones
-├── documentacion/ # Documentación técnica y diagramas
-│ ├── topologia-red-mpls.drawio # Diagrama lógico de red
-│ └── capturas/ # Evidencias de pruebas (pings, configuraciones, etc.)
-├── configuraciones/ # Configuraciones de routers y switches (archivos .txt)
-│ ├── routerA.txt
-│ ├── routerB.txt
-│ ├── routerC.txt
-│ ├── switchA.txt
-│ ├── switchB.txt
-│ └── switchC.txt
-├── diagnostico-fallas/ # Casos simulados de error y su resolución
-│ ├── caso1.md
-│ └── caso2.md
-├── presupuesto/ # Estimación de costos y componentes (opcional)
-│ └── costos-referenciales.xlsx
-└── README.md                   # Descripción general del proyecto y objetivos
+├── red-mpls-empresarial.pkt               # Proyecto principal en Cisco Packet Tracer
+├── README.md                              # Descripción general del proyecto
+├── .gitignore                             # Exclusión de archivos del control de versiones
+├── documentacion/                         # Documentación técnica y diagrama
+│   ├── informe-proyecto.md                # Detalle técnico del proyecto
+│   ├── procedimientos-configuracion.md    # Pasos de configuración detallados
+│   └── topologia-red-empresarial-mpls.drawio.svg  # Diagrama lógico de red en SVG
+
 ```
 
 
