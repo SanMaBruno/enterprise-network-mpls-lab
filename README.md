@@ -59,11 +59,10 @@ enterprise-network-mpls-lab/
 Demostrar competencias avanzadas en diseño de redes empresariales, documentación estructurada y buenas prácticas de simulación técnica, orientadas a roles profesionales en telecomunicaciones, infraestructura TI y soporte técnico de nivel senior.
 
 ---
-
 ## 📸 Vista previa
 
-> 📁 Diagrama visual de la topología (ver en `documentacion/topologia-red-mpls.drawio`):
+📁 Diagrama visual de la topología (editable): [`topologia-red-empresarial-mpls.drawio`](documentacion/topologia-red-empresarial-mpls.drawio)
 
-![Topología de red](documentacion/capturas/topologia-red-mpls.png)
+🖼️ Imagen exportada para previsualización directa:
 
----
+![Topología de red](documentacion/topologia-red-empresarial-mpls.png)
